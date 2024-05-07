@@ -1,0 +1,259 @@
+Site_ID,Sample_ID,Data_Source,Latitude_Degrees,Longitude_Degrees,Ocean_Name,Realm_Name,Country_Name,Ecoregion,Site_Name,Date_Day,Date_Month,Date_Year,Depth_max_m,Bleaching_Level,S1,S2,S3,S4,S_rounded_mean,Severity_Code
+1652,10317590,Reef_Check,-17.99711111,-38.67130556,Atlantic,Tropical Atlantic,Brazil,EST,,27,3,2002,7.5,,,,,,,1
+1653,10317557,Reef_Check,-17.97027778,-38.67180556,Atlantic,Tropical Atlantic,Brazil,EST,,5,4,2005,7,1,2,2,2,2,2,1
+1653,10317558,Reef_Check,-17.97027778,-38.67180556,Atlantic,Tropical Atlantic,Brazil,EST,,19,10,2007,10,1,0,0,0,0,0,0
+1653,10317559,Reef_Check,-17.97027778,-38.67180556,Atlantic,Tropical Atlantic,Brazil,EST,,16,12,2009,9,1,0,0,0,0,0,0
+1653,10317560,Reef_Check,-17.97027778,-38.67180556,Atlantic,Tropical Atlantic,Brazil,EST,,26,3,2002,10,,,,,,,1
+1654,10317592,Reef_Check,-17.96830556,-38.71330556,Atlantic,Tropical Atlantic,Brazil,EST,,19,3,2002,4,,,,,,,1
+1654,10317593,Reef_Check,-17.96830556,-38.71330556,Atlantic,Tropical Atlantic,Brazil,EST,,26,3,2002,4,,,,,,,1
+1655,10317591,Reef_Check,-17.96319444,-38.70030556,Atlantic,Tropical Atlantic,Brazil,EST,,25,3,2002,2.5,,,,,,,1
+1656,10317586,Reef_Check,-17.96269444,-38.67019444,Atlantic,Tropical Atlantic,Brazil,EST,,4,4,2005,8,1,2,2,2,2,2,1
+1656,10317587,Reef_Check,-17.96269444,-38.67019444,Atlantic,Tropical Atlantic,Brazil,EST,,16,10,2007,10,1,0,0,0,0,0,0
+1656,10317588,Reef_Check,-17.96269444,-38.67019444,Atlantic,Tropical Atlantic,Brazil,EST,,15,12,2009,13,1,0,0,0,0,0,0
+1656,10317589,Reef_Check,-17.96269444,-38.67019444,Atlantic,Tropical Atlantic,Brazil,EST,,20,3,2002,9,,,,,,,1
+1657,10317585,Reef_Check,-17.90080556,-38.66019444,Atlantic,Tropical Atlantic,Brazil,EST,,19,3,2002,7.5,,,,,,,1
+1658,10317608,Reef_Check,-17.78669444,-39.04480556,Atlantic,Tropical Atlantic,Brazil,EST,,18,3,2002,5,,,,,,,1
+1659,10317609,Reef_Check,-16.8975,-39.08269444,Atlantic,Tropical Atlantic,Brazil,EST,,23,3,2002,2.5,,,,,,,1
+1660,10317610,Reef_Check,-16.88769444,-39.09161111,Atlantic,Tropical Atlantic,Brazil,EST,,24,3,2002,4.5,,,,,,,1
+1661,10321472,Reef_Check,-12.588,-38.00213889,Atlantic,Tropical Atlantic,Brazil,NST,,16,12,2004,3,,,,,,,1
+1662,10317547,Reef_Check,-12.56658333,-37.988,Atlantic,Tropical Atlantic,Brazil,NST,,15,12,2004,3,,,,,,,1
+1663,10323837,Donner,-16.9929,-39.1432,Atlantic,Tropical Atlantic,Brazil,EST,,15,3,1998,0,,,,,,,1
+1664,10323839,Donner,-18.2,-38.8,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Parcel and Archipelago,15,3,2001,0,,,,,,,1
+1664,10323840,Donner,-18.2,-38.8,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Parcel and Archipelago,15,3,2002,0,,,,,,,1
+1664,10323841,Donner,-18.2,-38.8,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Parcel and Archipelago,15,3,2003,0,,,,,,,1
+1664,10323842,Donner,-18.2,-38.8,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Parcel and Archipelago,15,4,2005,0,,,,,,,3
+1664,10323838,Donner,-18.2,-38.8,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Parcel and Archipelago,15,3,2000,0,,,,,,,1
+1665,10323843,Donner,-17.7,-39.1,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Coastal Reefs,15,3,2001,0,,,,,,,1
+1665,10323844,Donner,-17.7,-39.1,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Coastal Reefs,15,3,2002,0,,,,,,,1
+1665,10323845,Donner,-17.7,-39.1,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Coastal Reefs,15,3,2003,0,,,,,,,1
+1665,10323846,Donner,-17.7,-39.1,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Coastal Reefs,15,3,1994,0,,,,,,,3
+1665,10323847,Donner,-17.7,-39.1,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Coastal Reefs,15,3,2005,0,,,,,,,3
+1666,10323848,Donner,-13.9,-39.015,Atlantic,Tropical Atlantic,Brazil,EST,Tinhare. Boipeba Island and Camamu Bay,15,3,2002,0,,,,,,,1
+1666,10323849,Donner,-13.9,-39.015,Atlantic,Tropical Atlantic,Brazil,EST,Tinhare. Boipeba Island and Camamu Bay,15,3,2004,0,,,,,,,1
+1666,10323850,Donner,-13.9,-39.015,Atlantic,Tropical Atlantic,Brazil,EST,Tinhare. Boipeba Island and Camamu Bay,15,4,2003,0,,,,,,,3
+1667,10317405,Reef_Check,-8.766722222,-35.09272222,Atlantic,Tropical Atlantic,Brazil,NST,,7,1,2003,3,,,,,,,1
+1667,10317406,Reef_Check,-8.766722222,-35.09272222,Atlantic,Tropical Atlantic,Brazil,NST,,23,12,2004,3,1,0,0,10,0,3,1
+1667,10317407,Reef_Check,-8.766722222,-35.09272222,Atlantic,Tropical Atlantic,Brazil,NST,,10,12,2005,2.5,1,20,25,30,60,34,2
+1667,10317408,Reef_Check,-8.766722222,-35.09272222,Atlantic,Tropical Atlantic,Brazil,NST,,3,11,2006,3,1,0,0,0,0,0,0
+1668,10317402,Reef_Check,-8.764694444,-35.08319444,Atlantic,Tropical Atlantic,Brazil,NST,,21,3,2007,6,1,5,5,5,0,4,1
+1668,10317403,Reef_Check,-8.764694444,-35.08319444,Atlantic,Tropical Atlantic,Brazil,NST,,21,1,2003,6,,,,,,,1
+1669,10317421,Reef_Check,-5.390861111,-35.25280556,Atlantic,Tropical Atlantic,Brazil,NST,,20,9,2002,2,,,,,,,1
+1669,10317422,Reef_Check,-5.390861111,-35.25280556,Atlantic,Tropical Atlantic,Brazil,NST,,20,9,2002,2,,,,,,,1
+1669,10317461,Reef_Check,-5.390861111,-35.25280556,Atlantic,Tropical Atlantic,Brazil,NST,,18,9,2002,2,,,,,,,1
+1669,10317462,Reef_Check,-5.390861111,-35.25280556,Atlantic,Tropical Atlantic,Brazil,NST,,18,9,2002,2.5,,,,,,,1
+1669,10317463,Reef_Check,-5.390861111,-35.25280556,Atlantic,Tropical Atlantic,Brazil,NST,,19,9,2002,2,,,,,,,1
+1669,10317464,Reef_Check,-5.390861111,-35.25280556,Atlantic,Tropical Atlantic,Brazil,NST,,19,9,2002,2.5,,,,,,,1
+1669,10317465,Reef_Check,-5.390861111,-35.25280556,Atlantic,Tropical Atlantic,Brazil,NST,,24,3,2004,4,1,17.5,17.5,17.5,17.5,18,2
+1670,10317466,Reef_Check,-5.390388889,-35.254,Atlantic,Tropical Atlantic,Brazil,NST,,6,2,2003,2.5,,,,,,,1
+1670,10317467,Reef_Check,-5.390388889,-35.254,Atlantic,Tropical Atlantic,Brazil,NST,,6,9,2005,2.5,1,0,0,0,0,0,0
+1671,10317458,Reef_Check,-5.388111111,-35.25219444,Atlantic,Tropical Atlantic,Brazil,NST,,7,9,2005,2.4,1,0,0,0,0,0,0
+1671,10317459,Reef_Check,-5.388111111,-35.25219444,Atlantic,Tropical Atlantic,Brazil,NST,,5,2,2003,2.5,,,,,,0,1
+1672,10317468,Reef_Check,-5.384611111,-35.256,Atlantic,Tropical Atlantic,Brazil,NST,,5,2,2003,2.8,,,,,,,1
+1673,10317460,Reef_Check,-5.383305556,-35.25280556,Atlantic,Tropical Atlantic,Brazil,NST,,4,2,2003,2.8,,,,,,,1
+1674,10316877,Reef_Check,-3.853194444,-32.44505556,Atlantic,Tropical Atlantic,Brazil,FNA,,19,3,2003,16,,,,,,,1
+1674,10316878,Reef_Check,-3.853194444,-32.44505556,Atlantic,Tropical Atlantic,Brazil,FNA,,9,7,2005,16,1,1,1,1,1,1,1
+1674,10316879,Reef_Check,-3.853194444,-32.44505556,Atlantic,Tropical Atlantic,Brazil,FNA,,21,9,2008,5,1,2,2,2,2,2,1
+1675,10322082,Reef_Check,-3.853138889,-32.44680556,Atlantic,Tropical Atlantic,Brazil,FNA,,8,11,2002,14,,,,,,,1
+1675,10322083,Reef_Check,-3.853138889,-32.44680556,Atlantic,Tropical Atlantic,Brazil,FNA,,21,3,2003,14,,,,,,,1
+1676,10316880,Reef_Check,-3.852888889,-32.44658333,Atlantic,Tropical Atlantic,Brazil,FNA,,21,3,2003,13.6,,,,,,,1
+1677,10316873,Reef_Check,-3.8435,-32.44088889,Atlantic,Tropical Atlantic,Brazil,FNA,,7,11,2002,20,,,,,,,1
+1677,10316874,Reef_Check,-3.8435,-32.44088889,Atlantic,Tropical Atlantic,Brazil,FNA,,21,11,2009,19,1,0,0,0,0,0,0
+1678,10316866,Reef_Check,-3.8085,-32.38169444,Atlantic,Tropical Atlantic,Brazil,FNA,,7,11,2002,8,,,,,,,1
+1679,10316864,Reef_Check,-3.511,-32.26380556,Atlantic,Tropical Atlantic,Brazil,FNA,,6,11,2002,6,,,,,,,1
+1679,10316865,Reef_Check,-3.511,-32.26380556,Atlantic,Tropical Atlantic,Brazil,FNA,,6,11,2002,13,,,,,,,1
+1680,10316862,Reef_Check,-3.503694444,-32.26261111,Atlantic,Tropical Atlantic,Brazil,FNA,,5,11,2002,18,,,,,,,1
+1680,10316863,Reef_Check,-3.503694444,-32.26261111,Atlantic,Tropical Atlantic,Brazil,FNA,,5,11,2002,20,,,,,,,1
+1681,10316843,Reef_Check,-3.483,-32.23219444,Atlantic,Tropical Atlantic,Brazil,FNA,,5,11,2002,16,,,,,,,1
+1682,10323851,Donner,-17.785,-39,Atlantic,Tropical Atlantic,Brazil,EST,,15,4,1998,0,,,,,,,3
+1683,10323852,Donner,-17.6667,-38.5,Atlantic,Tropical Atlantic,Brazil,EST,,15,4,1998,0,,,,,,,3
+1684,10323853,Donner,-13.6952,-38.9047,Atlantic,Tropical Atlantic,Brazil,EST,,15,4,1998,10.5,,,,,,,3
+1685,10323854,Donner,-12.81,-38.2,Atlantic,Tropical Atlantic,Brazil,NST,Litoral Norte,15,4,1998,0,,,,,,,3
+1686,10323855,Donner,-13.2,-38.7,Atlantic,Tropical Atlantic,Brazil,EST,Todos os Santos Bay,15,4,2003,0,,,,,,,3
+1687,10317553,Reef_Check,-17.98127778,-38.66063889,Atlantic,Tropical Atlantic,Brazil,EST,,5,4,2005,12.2,1,2,2,2,2,2,1
+1687,10317554,Reef_Check,-17.98127778,-38.66063889,Atlantic,Tropical Atlantic,Brazil,EST,,17,12,2009,11,1,0,0,0,0,0,0
+1688,10317555,Reef_Check,-17.97738889,-38.67144444,Atlantic,Tropical Atlantic,Brazil,EST,,6,4,2005,9,1,2,2,2,2,2,1
+1688,10317556,Reef_Check,-17.97738889,-38.67144444,Atlantic,Tropical Atlantic,Brazil,EST,,17,12,2009,6.5,1,0,0,0,0,0,0
+1689,10317570,Reef_Check,-17.97094444,-38.71519444,Atlantic,Tropical Atlantic,Brazil,EST,,18,10,2007,4,1,0,0,0,0,0,0
+1689,10317571,Reef_Check,-17.97094444,-38.71519444,Atlantic,Tropical Atlantic,Brazil,EST,,12,6,2009,6,1,0,0,0,0,0,0
+1690,10317567,Reef_Check,-17.96941667,-38.71244444,Atlantic,Tropical Atlantic,Brazil,EST,,14,12,2009,9,1,0,0,0,0,0,0
+1690,10317568,Reef_Check,-17.96941667,-38.71244444,Atlantic,Tropical Atlantic,Brazil,EST,,6,4,2005,4,1,2,2,2,2,2,1
+1691,10317594,Reef_Check,-17.96880556,-38.71416667,Atlantic,Tropical Atlantic,Brazil,EST,,14,10,2007,6,1,2,2,1,2,2,1
+1691,10317595,Reef_Check,-17.96880556,-38.71416667,Atlantic,Tropical Atlantic,Brazil,EST,,12,6,2009,3,1,0,0,0,0,0,0
+1692,10317565,Reef_Check,-17.96433333,-38.70066667,Atlantic,Tropical Atlantic,Brazil,EST,,15,10,2007,5,1,0,0,0,0,0,0
+1692,10317566,Reef_Check,-17.96433333,-38.70066667,Atlantic,Tropical Atlantic,Brazil,EST,,6,4,2005,5.5,1,2,2,2,2,2,1
+1693,10317569,Reef_Check,-17.96416667,-38.71361111,Atlantic,Tropical Atlantic,Brazil,EST,,18,12,2009,4.5,1,0,0,0,0,0,0
+1694,10317563,Reef_Check,-17.96366667,-38.69963889,Atlantic,Tropical Atlantic,Brazil,EST,,11,6,2009,4,1,1,1,1,1,1,1
+1694,10317564,Reef_Check,-17.96366667,-38.69963889,Atlantic,Tropical Atlantic,Brazil,EST,,15,10,2007,5,1,0,0,0,0,0,0
+1695,10317561,Reef_Check,-17.9625,-38.69555556,Atlantic,Tropical Atlantic,Brazil,EST,,7,6,2009,3,1,2,1,0,0,1,1
+1695,10317562,Reef_Check,-17.9625,-38.69555556,Atlantic,Tropical Atlantic,Brazil,EST,,15,12,2009,4,1,0,0,0,0,0,0
+1696,10317581,Reef_Check,-16.42138889,-38.98,Atlantic,Tropical Atlantic,Brazil,EST,,9,3,2008,5.5,1,0,0,0,0,0,0
+1697,10317579,Reef_Check,-16.41611111,-38.97444444,Atlantic,Tropical Atlantic,Brazil,EST,,10,3,2008,7,1,0,0,0,0,0,0
+1698,10317582,Reef_Check,-16.41338889,-38.98825,Atlantic,Tropical Atlantic,Brazil,EST,,20,11,2007,3,1,5,5,5,5,5,1
+1699,10317583,Reef_Check,-16.41222222,-38.99080556,Atlantic,Tropical Atlantic,Brazil,EST,,21,11,2007,5,1,2,0,4,0,2,1
+1700,10317580,Reef_Check,-16.39027778,-38.97694444,Atlantic,Tropical Atlantic,Brazil,EST,,8,3,2008,5,1,1,1,2,0,1,1
+1701,10317575,Reef_Check,-13.13688889,-38.74688889,Atlantic,Tropical Atlantic,Brazil,EST,,11,12,2007,3,1,5,5,5,5,5,1
+1702,10317574,Reef_Check,-13.13386111,-38.73405556,Atlantic,Tropical Atlantic,Brazil,EST,,10,1,2008,3,1,0,0,0,0,0,0
+1703,10317573,Reef_Check,-13.13169444,-38.73716667,Atlantic,Tropical Atlantic,Brazil,EST,,9,1,2008,4,1,0,0,0,0,0,0
+1704,10317576,Reef_Check,-13.12947222,-38.73525,Atlantic,Tropical Atlantic,Brazil,EST,,12,12,2007,4,1,0,0,0,0,0,0
+1705,10317572,Reef_Check,-13.12938889,-38.73613889,Atlantic,Tropical Atlantic,Brazil,EST,,8,1,2008,3,1,0,0,0,0,0,0
+1706,10317548,Reef_Check,-13.07972222,-38.44138889,Atlantic,Tropical Atlantic,Brazil,EST,,15,3,2007,3,1,0,0,0,0,0,0
+1707,10317584,Reef_Check,-13.04,-38.65305556,Atlantic,Tropical Atlantic,Brazil,EST,,8,2,2006,3,1,0,0,0,0,0,0
+1708,10317552,Reef_Check,-13.011,-38.61975,Atlantic,Tropical Atlantic,Brazil,EST,,29,11,2007,4,1,0,0,0,0,0,0
+1709,10317549,Reef_Check,-12.96786111,-38.588,Atlantic,Tropical Atlantic,Brazil,EST,,14,10,2006,3,1,0,0,0,0,0,0
+1709,10317550,Reef_Check,-12.96786111,-38.588,Atlantic,Tropical Atlantic,Brazil,EST,,22,2,2008,2,1,0,0,0,0,0,0
+1709,10317551,Reef_Check,-12.96786111,-38.588,Atlantic,Tropical Atlantic,Brazil,EST,,13,10,2006,3,1,100,0,0,0,25,2
+1710,10317441,Reef_Check,-9.048472222,-35.19994444,Atlantic,Tropical Atlantic,Brazil,NST,,15,2,2006,3,1,20,34.5,69,37.5,40,2
+1710,10317442,Reef_Check,-9.048472222,-35.19994444,Atlantic,Tropical Atlantic,Brazil,NST,,22,1,2010,3,1,0,0,1,0,0,0
+1711,10317443,Reef_Check,-9.048444444,-35.2,Atlantic,Tropical Atlantic,Brazil,NST,,15,12,2007,3,1,0,0,0,0,0,0
+1711,10317444,Reef_Check,-9.048444444,-35.2,Atlantic,Tropical Atlantic,Brazil,NST,,22,1,2010,3,1,1,1,0,1,1,1
+1711,10317445,Reef_Check,-9.048444444,-35.2,Atlantic,Tropical Atlantic,Brazil,NST,,15,2,2006,4,1,9,10,13.5,6,10,1
+1712,10317440,Reef_Check,-9.043861111,-35.19891667,Atlantic,Tropical Atlantic,Brazil,NST,,15,4,2003,3,1,0,0,0,0,0,0
+1713,10317439,Reef_Check,-9.042722222,-35.19780556,Atlantic,Tropical Atlantic,Brazil,NST,,4,7,2003,5,1,0,0,0,0,0,0
+1714,10317438,Reef_Check,-9.042694444,-35.19625,Atlantic,Tropical Atlantic,Brazil,NST,,18,2,2003,3.8,1,0,0,0,0,0,0
+1715,10317437,Reef_Check,-9.042277778,-35.19586111,Atlantic,Tropical Atlantic,Brazil,NST,,18,4,2003,6,1,0,0,0,0,0,0
+1716,10317415,Reef_Check,-9.041444444,-35.19563889,Atlantic,Tropical Atlantic,Brazil,NST,,13,2,2006,4,1,11,19,23.5,45,25,2
+1716,10317416,Reef_Check,-9.041444444,-35.19563889,Atlantic,Tropical Atlantic,Brazil,NST,,13,12,2007,4,1,0,0,0,0,0,0
+1717,10317844,Reef_Check,-9.040972222,-35.19911111,Atlantic,Tropical Atlantic,Brazil,NST,,15,4,2003,3,1,0,0,0,0,0,0
+1718,10317412,Reef_Check,-9.040861111,-35.19413889,Atlantic,Tropical Atlantic,Brazil,NST,,15,12,2007,5,1,0,0,0,0,0,0
+1718,10317413,Reef_Check,-9.040861111,-35.19413889,Atlantic,Tropical Atlantic,Brazil,NST,,21,1,2010,3,1,1,1,1,1,1,1
+1719,10317417,Reef_Check,-9.040833333,-35.19686111,Atlantic,Tropical Atlantic,Brazil,NST,,13,2,2006,6,1,17.5,20.5,11,9,15,2
+1720,10317414,Reef_Check,-9.038944444,-35.19563889,Atlantic,Tropical Atlantic,Brazil,NST,,21,1,2010,4,1,1,0,0,0,0,0
+1721,10317435,Reef_Check,-9.032166667,-35.19408333,Atlantic,Tropical Atlantic,Brazil,NST,,14,2,2006,4,1,10,11,5.5,7.5,9,1
+1721,10317436,Reef_Check,-9.032166667,-35.19408333,Atlantic,Tropical Atlantic,Brazil,NST,,5,3,2010,3,1,0,0,0,0,0,0
+1722,10317411,Reef_Check,-9.021944444,-35.19277778,Atlantic,Tropical Atlantic,Brazil,NST,,9,1,2008,3,1,0,0,1,0,0,0
+1723,10317434,Reef_Check,-9.014972222,-35.18894444,Atlantic,Tropical Atlantic,Brazil,NST,,14,2,2006,5,1,2.1,12.5,15,8.5,10,2
+1724,10317503,Reef_Check,-8.905722222,-35.14280556,Atlantic,Tropical Atlantic,Brazil,NST,,11,3,2008,5,1,0,0,0,0,0,0
+1725,10317501,Reef_Check,-8.903416667,-35.13797222,Atlantic,Tropical Atlantic,Brazil,NST,,10,3,2008,5,1,0,0,0,0,0,0
+1726,10317502,Reef_Check,-8.903416667,-35.13777778,Atlantic,Tropical Atlantic,Brazil,NST,,10,3,2008,5,1,0,0,0,0,0,0
+1727,10317504,Reef_Check,-8.88875,-35.13541667,Atlantic,Tropical Atlantic,Brazil,NST,,9,3,2008,2,1,0,0,0,0,0,0
+1728,10317500,Reef_Check,-8.883527778,-35.13336111,Atlantic,Tropical Atlantic,Brazil,NST,,8,3,2008,2,1,0,0,0,0,0,0
+1729,10317499,Reef_Check,-8.88175,-35.13027778,Atlantic,Tropical Atlantic,Brazil,NST,,9,3,2008,3,1,0,0,0,0,0,0
+1730,10317498,Reef_Check,-8.871,-35.12294444,Atlantic,Tropical Atlantic,Brazil,NST,,8,3,2008,3,1,10,15,10,20,14,2
+1731,10317410,Reef_Check,-8.794472222,-35.10141667,Atlantic,Tropical Atlantic,Brazil,NST,,14,4,2003,2,1,0,0,0,0,0,0
+1732,10317409,Reef_Check,-8.789583333,-35.09833333,Atlantic,Tropical Atlantic,Brazil,NST,,14,4,2003,3,1,0,0,0,0,0,0
+1733,10317488,Reef_Check,-8.783027778,-35.09669444,Atlantic,Tropical Atlantic,Brazil,NST,,13,11,2007,3,1,0,0,0,0,0,0
+1734,10317404,Reef_Check,-8.769777778,-35.08605556,Atlantic,Tropical Atlantic,Brazil,NST,,17,2,2006,8,1,72,71,79,78,75,3
+1735,10317401,Reef_Check,-8.768222222,-35.08286111,Atlantic,Tropical Atlantic,Brazil,NST,,16,2,2006,12,1,17,21.5,23.5,11,18,2
+1736,10317486,Reef_Check,-8.767888889,-35.094,Atlantic,Tropical Atlantic,Brazil,NST,,7,12,2007,7,1,0.1,0,0.1,0,0,0
+1736,10317487,Reef_Check,-8.767888889,-35.094,Atlantic,Tropical Atlantic,Brazil,NST,,22,3,2007,5,1,30,30,20,30,28,2
+1737,10317481,Reef_Check,-8.767611111,-35.09291667,Atlantic,Tropical Atlantic,Brazil,NST,,14,5,2010,3,1,90,80,80,90,85,3
+1738,10317485,Reef_Check,-8.767055556,-35.09375,Atlantic,Tropical Atlantic,Brazil,NST,,10,11,2005,2,1,0,0,0,0,0,0
+1739,10317479,Reef_Check,-8.766916667,-35.09280556,Atlantic,Tropical Atlantic,Brazil,NST,,8,3,2007,4,1,10,10,10,10,10,2
+1739,10317480,Reef_Check,-8.766916667,-35.09280556,Atlantic,Tropical Atlantic,Brazil,NST,,25,9,2007,4,1,0,0,0,0,0,0
+1740,10317482,Reef_Check,-8.7665,-35.09291667,Atlantic,Tropical Atlantic,Brazil,NST,,16,3,2007,3,1,10,10,10,10,10,2
+1740,10317483,Reef_Check,-8.7665,-35.09291667,Atlantic,Tropical Atlantic,Brazil,NST,,23,11,2007,3,1,0,0,0,0,0,0
+1741,10317484,Reef_Check,-8.76625,-35.09322222,Atlantic,Tropical Atlantic,Brazil,NST,,23,3,2007,3,1,0,0,0,0,0,0
+1742,10317490,Reef_Check,-8.758777778,-35.08525,Atlantic,Tropical Atlantic,Brazil,NST,,19,3,2004,4,1,10,10,10,10,10,2
+1742,10317491,Reef_Check,-8.758777778,-35.08525,Atlantic,Tropical Atlantic,Brazil,NST,,17,1,2007,4,1,0,0,0,0,0,0
+1742,10317492,Reef_Check,-8.758777778,-35.08525,Atlantic,Tropical Atlantic,Brazil,NST,,12,5,2010,4,1,5,60,9,45,30,2
+1743,10317489,Reef_Check,-8.757444444,-35.08480556,Atlantic,Tropical Atlantic,Brazil,NST,,18,1,2007,5,1,0,0,0,0,0,0
+1744,10317477,Reef_Check,-8.741305556,-35.08433333,Atlantic,Tropical Atlantic,Brazil,NST,,28,11,2004,2,1,0,0,0,0,0,0
+1744,10317478,Reef_Check,-8.741305556,-35.08433333,Atlantic,Tropical Atlantic,Brazil,NST,,19,1,2007,3,1,0,0,0,0,0,0
+1745,10317430,Reef_Check,-5.392777778,-35.25333333,Atlantic,Tropical Atlantic,Brazil,NST,,29,4,2010,2,1,15,10,15,12,13,2
+1746,10317433,Reef_Check,-5.392722222,-35.25244444,Atlantic,Tropical Atlantic,Brazil,NST,,4,4,2007,3,1,0,0,0,1,0,0
+1747,10317423,Reef_Check,-5.392388889,-35.25294444,Atlantic,Tropical Atlantic,Brazil,NST,,3,4,2007,3,1,1,0,1,0,1,1
+1748,10317429,Reef_Check,-5.392305556,-35.2535,Atlantic,Tropical Atlantic,Brazil,NST,,5,9,2005,2,1,0,1,0,0,0,0
+1749,10317419,Reef_Check,-5.392222222,-35.2525,Atlantic,Tropical Atlantic,Brazil,NST,,30,4,2010,2,1,10,0,5,3,5,1
+1750,10317418,Reef_Check,-5.392222222,-35.25222222,Atlantic,Tropical Atlantic,Brazil,NST,,30,4,2010,2,1,10,14,10,5,10,2
+1751,10317420,Reef_Check,-5.391861111,-35.25277778,Atlantic,Tropical Atlantic,Brazil,NST,,2,4,2007,3,1,1,0,1,0,1,1
+1752,10317424,Reef_Check,-5.391805556,-35.25277778,Atlantic,Tropical Atlantic,Brazil,NST,,4,9,2005,2,1,0,0,0,0,0,0
+1753,10317427,Reef_Check,-5.39175,-35.25327778,Atlantic,Tropical Atlantic,Brazil,NST,,2,4,2007,3,1,2,2,2,2,2,1
+1754,10317428,Reef_Check,-5.391388889,-35.25305556,Atlantic,Tropical Atlantic,Brazil,NST,,29,4,2010,2,1,75,30,25,15,36,2
+1755,10317432,Reef_Check,-5.39,-35.255,Atlantic,Tropical Atlantic,Brazil,NST,,1,5,2010,2,1,7,10,30,57,26,2
+1756,10317426,Reef_Check,-5.389861111,-35.25325,Atlantic,Tropical Atlantic,Brazil,NST,,1,4,2007,2,1,5,5,5,5,5,1
+1757,10317431,Reef_Check,-5.389722222,-35.255,Atlantic,Tropical Atlantic,Brazil,NST,,1,5,2010,2,1,18,5,0,2,6,1
+1758,10317425,Reef_Check,-5.389222222,-35.25325,Atlantic,Tropical Atlantic,Brazil,NST,,31,3,2007,2,1,5,5,5,5,5,1
+1759,10316885,Reef_Check,-3.874722222,-33.80380556,Atlantic,Tropical Atlantic,Brazil,FNA,,5,12,2010,2.5,1,0,0,50,0,13,2
+1760,10316889,Reef_Check,-3.874583333,-33.80958333,Atlantic,Tropical Atlantic,Brazil,FNA,,8,12,2010,8,1,9,12,20,4,11,2
+1761,10316886,Reef_Check,-3.873611111,-33.805,Atlantic,Tropical Atlantic,Brazil,FNA,,30,11,2010,2,1,0,0,0,0,0,0
+1762,10316888,Reef_Check,-3.873361111,-33.80919444,Atlantic,Tropical Atlantic,Brazil,FNA,,2,12,2010,4,1,0,8,0,0,2,1
+1763,10316883,Reef_Check,-3.872944444,-33.79827778,Atlantic,Tropical Atlantic,Brazil,FNA,,16,12,2010,2.5,1,0,0,0,0,0,0
+1764,10316887,Reef_Check,-3.872583333,-33.80538889,Atlantic,Tropical Atlantic,Brazil,FNA,,1,12,2010,2.5,1,0,0,0,0,0,0
+1765,10316890,Reef_Check,-3.872361111,-33.81255556,Atlantic,Tropical Atlantic,Brazil,FNA,,4,12,2010,2,1,0,0,0,0,0,0
+1766,10316892,Reef_Check,-3.869388889,-33.81730556,Atlantic,Tropical Atlantic,Brazil,FNA,,27,11,2010,2,1,0,0,0,0,0,0
+1767,10316844,Reef_Check,-3.869222222,-32.42269444,Atlantic,Tropical Atlantic,Brazil,FNA,,13,11,2010,3,1,0,0,0,0,0,0
+1768,10316882,Reef_Check,-3.868611111,-33.79397222,Atlantic,Tropical Atlantic,Brazil,FNA,,10,12,2010,2,1,0,0,0,0,0,0
+1769,10316847,Reef_Check,-3.868166667,-32.42513889,Atlantic,Tropical Atlantic,Brazil,FNA,,25,9,2008,2,1,0.5,0.5,0.5,0.5,1,1
+1770,10316845,Reef_Check,-3.868166667,-32.42272222,Atlantic,Tropical Atlantic,Brazil,FNA,,19,9,2008,3,1,0,0,0,0,0,0
+1770,10316846,Reef_Check,-3.868166667,-32.42272222,Atlantic,Tropical Atlantic,Brazil,FNA,,20,11,2009,1.6,1,0,0,0,0,0,0
+1771,10316893,Reef_Check,-3.866361111,-33.81830556,Atlantic,Tropical Atlantic,Brazil,FNA,,12,12,2010,2,1,0,0,0,0,0,0
+1772,10316917,Reef_Check,-3.861222222,-33.82313889,Atlantic,Tropical Atlantic,Brazil,FNA,,12,6,2003,3,1,0,0,0,0,0,0
+1773,10316915,Reef_Check,-3.860388889,-33.81872222,Atlantic,Tropical Atlantic,Brazil,FNA,,3,12,2010,2.5,1,0,0,0,50,13,2
+1773,10316916,Reef_Check,-3.860388889,-33.81872222,Atlantic,Tropical Atlantic,Brazil,FNA,,13,6,2003,4.2,1,5,5,0,0,3,1
+1774,10316894,Reef_Check,-3.859527778,-33.81841667,Atlantic,Tropical Atlantic,Brazil,FNA,,17,12,2010,3,1,0,0,0,0,0,0
+1775,10316891,Reef_Check,-3.857611111,-33.81716667,Atlantic,Tropical Atlantic,Brazil,FNA,,7,12,2010,2,1,0,0,0,0,0,0
+1776,10316914,Reef_Check,-3.857222222,-33.802,Atlantic,Tropical Atlantic,Brazil,FNA,,25,3,2003,4.5,1,0,0,0,0,0,0
+1777,10316884,Reef_Check,-3.855833333,-33.79861111,Atlantic,Tropical Atlantic,Brazil,FNA,,6,12,2010,2.5,1,17,0,0,0,4,1
+1778,10316861,Reef_Check,-3.855472222,-32.44919444,Atlantic,Tropical Atlantic,Brazil,FNA,,10,11,2010,18,1,0,0,0,0,0,0
+1779,10316857,Reef_Check,-3.854333333,-32.44755556,Atlantic,Tropical Atlantic,Brazil,FNA,,23,11,2009,17,1,0,0,0,0,0,0
+1779,10316858,Reef_Check,-3.854333333,-32.44755556,Atlantic,Tropical Atlantic,Brazil,FNA,,12,11,2010,17,1,0,0,0,0,0,0
+1780,10316859,Reef_Check,-3.854277778,-32.44783333,Atlantic,Tropical Atlantic,Brazil,FNA,,9,7,2005,10,1,3,3,3,5,4,1
+1780,10316860,Reef_Check,-3.854277778,-32.44783333,Atlantic,Tropical Atlantic,Brazil,FNA,,22,9,2008,10,1,5,0,0,2,2,1
+1781,10316856,Reef_Check,-3.854,-32.44733333,Atlantic,Tropical Atlantic,Brazil,FNA,,22,11,2009,14,1,0,0,0,0,0,0
+1782,10316851,Reef_Check,-3.853277778,-32.44483333,Atlantic,Tropical Atlantic,Brazil,FNA,,10,11,2010,8,1,20,0,0,0,5,1
+1782,10316852,Reef_Check,-3.853277778,-32.44483333,Atlantic,Tropical Atlantic,Brazil,FNA,,22,11,2009,9,1,0,0,0,0,0,0
+1783,10316853,Reef_Check,-3.850916667,-32.44547222,Atlantic,Tropical Atlantic,Brazil,FNA,,19,9,2008,13,1,5,8,3,3,5,1
+1783,10316854,Reef_Check,-3.850916667,-32.44547222,Atlantic,Tropical Atlantic,Brazil,FNA,,22,11,2009,10,1,0.5,0.5,0.5,0.5,1,1
+1783,10316855,Reef_Check,-3.850916667,-32.44547222,Atlantic,Tropical Atlantic,Brazil,FNA,,10,11,2010,14,1,11,0,0,0,3,1
+1784,10316848,Reef_Check,-3.846972222,-32.44080556,Atlantic,Tropical Atlantic,Brazil,FNA,,21,9,2008,15,1,0,1,3,2,2,1
+1785,10316875,Reef_Check,-3.845916667,-32.44238889,Atlantic,Tropical Atlantic,Brazil,FNA,,24,3,2003,17.4,1,0,0,0,0,0,0
+1785,10316876,Reef_Check,-3.845916667,-32.44238889,Atlantic,Tropical Atlantic,Brazil,FNA,,23,9,2008,18,1,1,0,0,0,0,0
+1786,10316850,Reef_Check,-3.845833333,-32.44166667,Atlantic,Tropical Atlantic,Brazil,FNA,,23,11,2009,23,1,0,0,0,0,0,0
+1787,10316849,Reef_Check,-3.844055556,-32.44105556,Atlantic,Tropical Atlantic,Brazil,FNA,,9,11,2010,21,,,,,,,1
+1788,10316842,Reef_Check,-3.834722222,-32.39672222,Atlantic,Tropical Atlantic,Brazil,FNA,,25,9,2008,3,1,0,0,0,0,0,0
+1,1,Migotto et al. (1997),-23.831029,-45.409953,Atlantic,Tropical Atlantic,Brazil,SEST,Sao Sebastiao Channel,20,3,1994,0,,,,,,,2
+2,2,Borges & Vieira (2013),-23.5174,-45.0413,Atlantic,Tropical Atlantic,Brazil,SEST,Ilha das Cabras,20,12,2010,4.5,,,,,,,1
+3,3,Mayal et al. (2009),-5.38916665,-35.2641667,Atlantic,Tropical Atlantic,Brazil,NST,Maracajau,1,2,2000,0.5,,,,,,,3
+4,4,Alves Jr. et al. (2010),-16.92,-39.05,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Itacolomis reef,20,3,2007,0,,,,,,,1
+5,5,Amaral & Costa (1998),-8.3305,-34.935,Atlantic,Tropical Atlantic,Brazil,NST,Gaibu beach,20,3,1996,4,,,,,,,1
+6,6,Amaral et al. (2010),-8.058,-34.8,Atlantic,Tropical Atlantic,Brazil,NST,Vapor de Baixo shipwreck,31,12,2005,23,,,,,,,1
+7,7,Amorim et al. (2011),-7.117424,-34.8073,Atlantic,Tropical Atlantic,Brazil,NST,Picaozinho,31,3,2009,1.5,,,,,,,3
+8,8,Barradas et al. (2010),-8.511389,-34.999722,Atlantic,Tropical Atlantic,Brazil,NST,Porto de Galinhas,30,11,2004,2,,,,,,,2
+9,9,Cavalcante et al. (2014),-8.511389,-34.999722,Atlantic,Tropical Atlantic,Brazil,NST,Porto de Galinhas reef,31,3,2011,2,,,,,,,1
+10,10,Castro et al. (1999),-17.9833,-39.25,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Viçosa reef,6,3,1994,3,,,,,,,3
+11,11,Coni et al. (2017),-16.92,-39.05,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Itacolomis reef,31,3,2006,4.32,,,,,,,2
+12,12,Costa et al. (2001),-8.3305,-34.9507,Atlantic,Tropical Atlantic,Brazil,NST,Gaibu beach,31,7,1996,1.5,,,,,,,1
+13,14,Costa et al. (2004),-7.151667,-34.793056,Atlantic,Tropical Atlantic,Brazil,NST,Cabo Branco reefs,30,6,2003,1,,,,,,,1
+13,15,Sassi et al. (2014),-7.151667,-34.793056,Atlantic,Tropical Atlantic,Brazil,NST,Cabo Branco reefs,31,3,2009,1,,,,,,,2
+14,16,Cruz et al. (2015),-12.998889,-38.530278,Atlantic,Tropical Atlantic,Brazil,EST,Todos os Santos Bay,31,12,2013,3,,,,,,,1
+15,17,Dias et al. (2016),-7.155833,-34.786111,Atlantic,Tropical Atlantic,Brazil,NST,Seixas Beach,31,3,2010,4,,,,,,,2
+16,18,Elliff et al. (2017),-13.454471,-38.89123,Atlantic,Tropical Atlantic,Brazil,EST,Tinhare and Boipeba Archipelago,30,4,2013,2.5,,,,,,,2
+17,19,Kelmo et al. (2013),-12.656111,-38.055,Atlantic,Tropical Atlantic,Brazil,NST,Bahia,30,4,1998,20,,,,,,,2
+17,20,Kelmo et al. (2013),-12.656111,-38.055,Atlantic,Tropical Atlantic,Brazil,NST,Bahia,30,4,2007,20,,,,,,,1
+17,21,Kelmo et al. (2013),-12.656111,-38.055,Atlantic,Tropical Atlantic,Brazil,NST,Bahia,30,4,2010,20,,,,,,,1
+18,22,Kikuchi et al. (2003),-17.9637,-38.6966,Atlantic,Tropical Atlantic,Brazil,EST,Santa Barba Island,30,4,2000,5,,,,,,,1
+19,23,Leão et al. (2008),-12.375,-37.875,Atlantic,Tropical Atlantic,Brazil,NST,Northern Bahia shoreline,30,4,1998,10,,,,,,,3
+20,24,Leão et al. (2008),-13.47882,-38.896052,Atlantic,Tropical Atlantic,Brazil,EST,Tinhare and Boipeba Archipelago,31,3,2002,10,,,,,,,3
+21,25,Leão et al. (2008),-16.891667,-39.090278,Atlantic,Tropical Atlantic,Brazil,EST,Itacolomis reefs,30,4,2005,10,,,,,,,2
+22,26,Leão et al. (2008),-17.789,-39.078,Atlantic,Tropical Atlantic,Brazil,EST,Ponta da Baleia,31,3,2003,20,,,,,,,1
+23,27,Lins et al. (2012),-22.755556,-41.901667,Atlantic,Tropical Atlantic,Brazil,EST,Buzios,12,2,2007,3.5,,,,,,,1
+24,28,Lourenço et al. (2015),-7.015556,-34.816111,Atlantic,Tropical Atlantic,Brazil,NST,Areia Vermelha MPA,30,4,2009,0,,,,,,,1
+25,29,Marangoni et al. (2019),-16.417222,-38.981944,Atlantic,Tropical Atlantic,Brazil,EST,Recife de Fora,31,5,2015,2,,,,,,,2
+26,30,Meirelles et al. (2015),-20.577,-34.80645,Atlantic,Tropical Atlantic,Brazil,EST,Trindade and Martim Vaz Archipelago,11,2,2011,20,,,,,,,3
+27,31,Mies et al. (2018),-23.533755,-45.07593,Atlantic,Tropical Atlantic,Brazil,SEST,Ubatuba,27,2,2015,3,,,,,,,1
+27,32,Mies et al. (2018),-23.533755,-45.07593,Atlantic,Tropical Atlantic,Brazil,SEST,Ubatuba,30,1,2016,3,,,,,,,1
+28,33,Miranda et al. (2013),-13.116667,-38.733333,Atlantic,Tropical Atlantic,Brazil,EST,Caramuanas reef,31,3,2010,3,,,,,,,2
+29,34,Miranda et al. (2016),-13.129444,-38.641944,Atlantic,Tropical Atlantic,Brazil,EST,Cascos reef,30,12,2012,20,,,,,,,3
+30,35,Moreira et al. (2013),0.946111,-29.366667,Atlantic,Tropical Atlantic,Brazil,SPSP,St. Peter and St. Paul Archipelago,22,9,2010,30,,,,,,,1
+31,36,Moura et al. (1999),-0.866667,-44.25,Atlantic,Tropical Atlantic,Brazil,AMZ,Manoel Luis reefs,31,7,1998,30,,,,,,,3
+32,37,Pereira et al. (2003),-7.9868055,-34.822,Atlantic,Tropical Atlantic,Brazil,NST,Casa Caiada Beach,27,2,1999,1.5,,,,,,,2
+33,38,Pereira et al. (2012),-3.85,-33.816667,Atlantic,Tropical Atlantic,Brazil,FNA,Rocas Atoll,31,3,2010,3,,,,,,,1
+34,39,Pereira-filho et al. (2011),-20.5,-29.333333,Atlantic,Tropical Atlantic,Brazil,TMV,Trindade and Martim Vaz Archipelago,26,3,2009,20,,,,,,,2
+35,40,Pereira-filho et al. (2011),-3.842599,-32.442675,Atlantic,Tropical Atlantic,Brazil,FNA,Fernando de Noronha,30,11,2009,0,,,,,,,2
+36,41,Poggio et al. (2009),-12.5,-37.5,Atlantic,Tropical Atlantic,Brazil,NST,Guarajuba reef,31,3,2005,0,,,,,,,1
+36,42,Poggio et al. (2009),-12.5,-37.5,Atlantic,Tropical Atlantic,Brazil,NST,Guarajuba reef,31,3,2006,0,,,,,,,1
+37,43,Ramos et al. (2014),-13.133333,-38.733333,Atlantic,Tropical Atlantic,Brazil,EST,Caramuanas reef,31,3,2010,3,,,,,,,3
+38,44,Rogers et al. (2014),-22.974513,-42.005915,Atlantic,Tropical Atlantic,Brazil,EST,Arraial do Cabo reefs,31,12,2009,9,,,,,,,1
+39,45,Soares et al. (2014),-2.995,-39.716667,Atlantic,Tropical Atlantic,Brazil,NST,Ceara reefs,27,2,2010,3,,,,,,,3
+40,46,Steiner et al. (2015),-8.7611,-35.095,Atlantic,Tropical Atlantic,Brazil,NST,Costa dos Corais MPA,31,12,2004,0,,,,,,,1
+41,47,Teixeira et al. (2019),-17.998,-38.671,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos,31,5,2016,17,,,,,,,3
+42,48,Vila Nova et al. (2014),-8.762358,-35.087822,Atlantic,Tropical Atlantic,Brazil,NST,Tamandare reefs,30,1,2013,0,,,,,,,1
+43,49,Duarte et al. (2020),-16.916667,-39.05,Atlantic,Tropical Atlantic,Brazil,EST,Itacolomis reefs,5,7,2019,8,,,,,,,3
+44,50,Ferreira et al. (2021),-17.96621,-38.692891,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos,31,5,2019,9,,,,,,,3
+45,51,Pereira et al. (2022),-9.044023,-35.197533,Atlantic,Tropical Atlantic,Brazil,NST,Maragogi reefs,1,6,2020,8,,,,,,,3
+46,52,Braz et al. (2022),-16.40353,-38.980978,Atlantic,Tropical Atlantic,Brazil,EST,Porto Seguro reefs,30,6,2019,4,,,,,,,3
+47,53,Morais and Santos (2022),-7.03698,-34.58802,Atlantic,Tropical Atlantic,Brazil,NST,Paraiba Eastern Coast reefs,9,2,2017,61,,,,,,,3
+48,54,Costa (2022),-4.924722,-37.11,Atlantic,Tropical Atlantic,Brazil,NST,Upanema beach,31,12,2017,0,,,,,,,2
+49,55,Mariano (2022),-23.545281,-45.030363,Atlantic,Tropical Atlantic,Brazil,SEST,Ubatuba,27,2,2021,3,,,,,,,3
+50,56,Castro et al. (1999),-17.9833,-39.25,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Viçosa reef,21,9,1992,3,,,,,,,1
+50,57,Castro et al. (1999),-17.9833,-39.25,Atlantic,Tropical Atlantic,Brazil,EST,Abrolhos Viçosa reef,21,4,1993,3,,,,,,,2
