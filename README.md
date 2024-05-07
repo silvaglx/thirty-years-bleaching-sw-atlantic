@@ -1,1 +1,2 @@
-# thirty-years-bleaching-sw-atlantic
+# Thirty years of coral bleaching in the Southwestern Atlantic: comparing reported occurrences with sea surface temperature anomalies
+A collection of jupyter notebooks used for the analysis of bleaching reports relantionship with SST anomalies in the Southwestern Atlantic during 1992-2022. A compiled bleaching database and sea surface temperature data over bleaching sites (from NOAA CoralTemp) are also made available. The notebook scripts and data can be accessed in /Projects/ folder.
